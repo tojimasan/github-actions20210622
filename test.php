@@ -1,5 +1,5 @@
 <?php
 
-ehco 'hoge';
+echo 'hoge';
 
 ?>
